@@ -95,6 +95,7 @@ header nav a{
 
 .largeImgHome{
     margin-bottom: 20px;
+    margin-top: 10px;
 }
 
 .top-content {
@@ -208,4 +209,57 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+
+/* ABOUT PAGE CODE */
+
+.largeImgAbout{
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.top-content .contentA{
+    width: 96%;
+    padding-bottom: 20px;  
+}
+
+.midtop-content h2, .midbot-content h2{
+    margin-top: 10px;
+}
+
+.midtop-container, .midbot-container{
+    width:100%;
+    margin: 0% auto;
+    display: flex;
+    justify-content: space-around;
+}
+.midtop-content, .midbot-content{
+    border-bottom: 1px dashed black;
+    width:46.5%;
+    padding-bottom: 30px;
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+
+.midtop-container .contentA, .midbot-container .contentA{
+    margin-bottom: 30px;
+}
+
+.button{
+    border: 2px solid black;
+    padding: 8px 25px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.bot-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom: 40px;
+}
+
+.bot-content .contentA{
+    width:96%
 }

@@ -34,11 +34,11 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-Specific markup
+Specific markup to help define components
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
-```display:block;``` turns components into a box while ```display:inline``` puts components onto the same line/row
+```display:block;``` shows components as a block while ```display:inline``` puts components onto the same line/row
 
 3. What are the 4 areas of the box model?
 
